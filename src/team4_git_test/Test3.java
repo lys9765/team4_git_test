@@ -5,7 +5,7 @@ public class Test3 {
 	public Test3() {
 		
 	}
-
+	//fetch 업데이트  된 사항이 있는지 여부확인
 	public void start() {
 		
 		int dan;
@@ -15,7 +15,7 @@ public class Test3 {
 				System.out.println();
 			}
 		}
-		System.out.println("김용우");
+		System.out.println("김용우: merge 확인합니다.");
 	}
 	public static void main(String[] args) {
 		new Test3().start();
