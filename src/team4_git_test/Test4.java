@@ -1,8 +1,8 @@
 package team4_git_test;
 
-public class Test3 {
+public class Test4 {
 
-	public Test3() {
+	public Test4() {
 	
 	}
 
