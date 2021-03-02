@@ -210,9 +210,7 @@ public class main {
 				}
 		}while(true);
 	}
-<<<<<<< yongw
 
-=======
 	
 	//초기 관리자 모드 
 	public void admin() { //관리자 모드 
@@ -253,7 +251,7 @@ public class main {
 				}
 		}while(true);
 	}
->>>>>>> main
+
 	//4.회원 & 책 등록
 		public void allRegister(int a) {
 			if(a==2) {
@@ -302,10 +300,7 @@ public class main {
 				System.out.println("=======================");
 				}
 			}
-<<<<<<< yongw
 
-=======
->>>>>>> main
 	public static void main(String[] args) {
 		new main().start();
 	}
