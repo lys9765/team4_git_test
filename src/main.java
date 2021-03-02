@@ -11,6 +11,7 @@ public class main {
 			
 			do {
 				String mode=input("[1.관리자 모드  2.회원모드 3.종료]");
+				System.out.println("지금 수정이 되었습니다");
 			}while(true);
 			
 	}
