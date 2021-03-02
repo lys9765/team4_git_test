@@ -15,6 +15,10 @@ public class main {
 			}while(true);
 			
 	}
+	
+	
+	 
+	
 	//초기 관리자 모드 
 	public void admin() { //관리자 모드 
 		do {
@@ -54,6 +58,9 @@ public class main {
 				}
 		}while(true);
 	}
+	
+	 
+	
 	
 	public static void main(String[] args) {
 		new main().start();
