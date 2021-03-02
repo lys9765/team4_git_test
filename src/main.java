@@ -19,7 +19,7 @@ public class main {
 		}
 		}while(true);
 		System.out.println();
-		System.out.println("=관리자모드 실행=");
+		System.out.println("=관리자모드@실행=");
 		System.out.println();
 		do {
 			
